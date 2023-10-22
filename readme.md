@@ -1,4 +1,3 @@
-# Inter Active Calendar
-<!--Contributors; 
-Kenneth Dela Cruz
-Jammin Ruiz -->
+# Contributors:
+# Kenneth Dela Cruz
+# Jammin Ruiz
