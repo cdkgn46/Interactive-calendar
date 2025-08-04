@@ -1,3 +1,2 @@
 # Contributors:
-# Kenneth Dela Cruz
-# Jammin Ruiz
+# Kenneth Dela Cruz
